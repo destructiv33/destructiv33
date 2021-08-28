@@ -15,7 +15,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=jdanrh.jdanrh)
 
   <p align="right">
-  <img src="assets/person.svg" align="right" height="150" />
+  <img src="person.svg" align="right" height="150" />
 </p>
 <p align="left">
 Mi nombre es Daniel soy ingeniero en sistemas y un apasionado desarrollador web autodidacta mexicano, mi pasión por el desarrollo web radica en hacer código y que este se vea reflejado en interfaces elegantes que solucionen problemas cuidando siempre la calidad de las cosas que construyo. 
