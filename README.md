@@ -18,9 +18,9 @@
   <img src="person.svg" align="right" height="150" />
 </p>
 <p align="left">
-Mi nombre es Daniel soy ingeniero en sistemas y un apasionado desarrollador web autodidacta mexicano, mi pasión por el desarrollo web radica en hacer código y que este se vea reflejado en interfaces elegantes que solucionen problemas cuidando siempre la calidad de las cosas que construyo. 
+Mi nombre es Daniel soy ingeniero en sistemas y un apasionado desarrollador web autodidacta mexicano, mi pasión por el desarrollo web radica en hacer código y que este se vea reflejado en interfaces amigables y elegantes con el proposito de solucionar problemas cuidando siempre la calidad del desarrollo y con las mejores practicas. 
   <br/>
-  También me apasiona aprender y  me encanta la colaboración el intercambio de ideas y de conocimiento a través de equipos de desarrollo.
+  Me apasiona aprender y  me encanta la colaboración el intercambio de ideas y de conocimiento a través de equipos de desarrollo.
 </p>
 
 ### Lenguajes Frameworks y Herramientas
